@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../demosecurity001"
+		},
+		{
+			"path": "../../../../springbatch/springbatch"
+		},
+		{
+			"path": "../../../../FastAPI-The-Complete-Course-main/FastAPI-The-Complete-Course-main"
+		},
+		{
+			"path": "../../../../PythonLearnings"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
